@@ -26,3 +26,5 @@ To use the Angular Article Management System, follow these steps:
 1. Start the development server: `ng serve`
 2. Open your web browser and navigate to `http://localhost:4200`
 3. Use the form to add new articles
+4. View the list of articles displayed on the page.
+5. Click the "Remove" button to delete articles from the list.
